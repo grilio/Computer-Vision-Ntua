@@ -1,8 +1,9 @@
 This is a repository containing the lab reports for the "Computer Vision" curse in ece NTUA.
 
-# Project Title
 
 ## Video Categorization using Computer Vision and Machine Learning
+
+
 
 ### Overview
 
@@ -15,12 +16,10 @@ In this phase, two detectors were implemented: the Harris detector and the Gabor
 #### Harris Detector
 The Harris detector extends the 3D Harris-Stephens corner detector to incorporate a 2D tensor and temporal derivative. It smoothens the videos spatiotemporally using Gaussian filters and computes derivatives using central differences. The interest points are identified as local maxima of the Harris criterion. The Harris detector tends to detect motion in videos consistently.
 
-*Insert Harris Detector Results Images*
 
 #### Gabor Detector
 The Gabor detector relies on temporal filtering of the video with a pair of Gabor filters after spatial smoothing. The Gabor filters are defined based on cosine and sine functions with a relationship between frequency and temporal scale. The interest points are determined as local maxima of the significance criterion. The Gabor detector exhibits more targeted point detection compared to Harris.
 
-*Insert Gabor Detector Results Images*
 
 Observing the extracted videos with detected interest points, it's evident that the Harris detector consistently identifies motion, while the Gabor detector targets specific movements more accurately.
 
@@ -28,7 +27,6 @@ Observing the extracted videos with detected interest points, it's evident that 
 
 In this step, Histogram of Oriented Gradients (HOG), Histogram of Optical Flow (HOF), and a combination of HOG and HOF descriptors are computed.
 
-*Insert Sample HOG/HOF Descriptor Images*
 
 ### Bag of Visual Words and SVM Classification
 
