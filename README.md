@@ -2,7 +2,7 @@ This is a repository containing the lab reports for the "Computer Vision" curse 
 
 
 ## Video Categorization using Computer Vision and Machine Learning
-<img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_walk-ezgif.com-video-to-gif-converter.gif?raw=true" width="200" alt="Example GIF"><img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_run-ezgif.com-video-to-gif-converter.gif?raw=true" width="200" alt="Example GIF"><img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_box-ezgif.com-video-to-gif-converter.gif?raw=true" width="200" alt="Example GIF">
+<img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_walk-ezgif.com-video-to-gif-converter.gif?raw=true" width="220" alt="Example GIF"><img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_run-ezgif.com-video-to-gif-converter.gif?raw=true" width="220" alt="Example GIF"><img src="https://github.com/grilio/Computer-Vision-Ntua/blob/main/lab%202/Harris_box-ezgif.com-video-to-gif-converter.gif?raw=true" width="220" alt="Example GIF">
 
 
 
