@@ -1,4 +1,4 @@
-This is a repository containing the lab reports for the "Computer Vision" curse in ece NTUA.
+*This is a repository containing the lab reports for the "Computer Vision" course in ECE NTUA. Below is the description of the project from lab2 part2.*
 
 
 ## Video Categorization using Computer Vision and Machine Learning
